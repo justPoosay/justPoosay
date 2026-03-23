@@ -1,6 +1,7 @@
 ## Projects
-- PolishTale: an UNDERTALE translation
+- Bytebeat Composer C++: real-time algorithmic music generator written in cpp
 - FNaF Minigames C++: variety of FNaF minigames ported to Raylib cpp
+- PolishTale: an UNDERTALE translation
 
 [![justPoosay's GitHub stats](https://github-readme-stats.vercel.app/api?username=justPoosay)](https://github.com/anuraghazra/github-readme-stats)
 
