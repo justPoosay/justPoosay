@@ -1,28 +1,73 @@
-## Projects
-- Bytebeat Composer C++: real-time algorithmic music generator written in cpp
-- FNaF Minigames C++: variety of FNaF minigames ported to Raylib cpp
-- PolishTale: an UNDERTALE translation
+<div align="center">
 
-[![justPoosay's GitHub stats](https://github-readme-stats.vercel.app/api?username=justPoosay)](https://github.com/anuraghazra/github-readme-stats)
+# Hi, I'm Oscar 👋
 
-## Currently using:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+**Student developer** building real-time **C++ tools** and **full-stack web apps**.<br>
+<sub>Most of my projects start as school assignments and grow from there.</sub>
 
-## Also using:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=plastic&logo=raylib&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)
+<br>
+
+<a href="https://justpoosay.github.io"><img src="https://img.shields.io/badge/Portfolio-1c1c1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="https://justpoosay.github.io/projects.html"><img src="https://img.shields.io/badge/Projects-1c1c1a?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>&nbsp;<a href="https://justpoosay.github.io/piano.html"><img src="https://img.shields.io/badge/Piano-1c1c1a?style=for-the-badge&logo=applemusic&logoColor=white" alt="Piano recordings" /></a>
+
+</div>
+
+<br>
+
+## 📌 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### [Morpholex](https://github.com/justPoosay/Morpholex)
+
+Search engine that returns a word's whole morphological family — *long → length, lengthen, lengthy* — with definitions, a word-formation quiz and search analytics.
+
+<kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>PostgreSQL</kbd>
+
+</td>
+    <td width="50%" valign="top">
+
+### [Bytebeat Composer](https://github.com/justPoosay/bytebeat-player)
+
+Real-time algorithmic music generator: write a formula, hear it instantly, watch it on the oscilloscope.
+
+<kbd>C++</kbd> <kbd>Raylib</kbd> <kbd>Dear ImGui</kbd>
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### [FNaF Minigames](https://github.com/justPoosay/cpp-fnaf-minigames)
+
+Recreations of the *Midnight Motorist* and *Chica's Magic Rainbow Land* minigames from Five Nights at Freddy's, with a shared menu and settings.
+
+<kbd>C++</kbd> <kbd>Raylib</kbd>
+
+</td>
+    <td width="50%" valign="top">
+
+### [MIDieval](https://github.com/justPoosay/midieval)
+
+Hum a melody, get a MIDI file: records your voice, filters out overtones, transcribes the notes and snaps them to tempo and key.
+
+<kbd>Flutter</kbd> <kbd>Dart</kbd> <kbd>Supabase</kbd>
+
+</td>
+  </tr>
+</table>
+
+<p align="right"><sub><a href="https://github.com/justPoosay?tab=repositories">More projects →</a></sub></p>
+
+## 🛠️ Stack
+
+<div align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=cpp,ts,js,py,kotlin,react,nextjs,vue,tailwind,nodejs,django,fastapi,postgres,firebase,docker,git,githubactions&theme=dark&perline=10" alt="C++, TypeScript, JavaScript, Python, Kotlin, React, Next.js, Vue, Tailwind CSS, Node.js, Django, FastAPI, PostgreSQL, Firebase, Docker, Git, GitHub Actions" />
+  <br><br>
+</div>
+
+## 🎹 Away from the screen
+
+> I play the piano. Recordings of the pieces I've learnt are on my [portfolio](https://justpoosay.github.io/piano.html).
